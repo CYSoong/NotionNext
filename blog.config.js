@@ -315,7 +315,7 @@ const BLOG = {
       url: 'https://music.163.com/#/song?id=1822259438.mp3',
       cover:
         'https://p2.music.126.net/fmKhf6kYqrv3LwYcFFagNg==/109951165750998393.jpg'
-    },
+    }
     {
       name: '心做し',
       artist: '鹿乃',
