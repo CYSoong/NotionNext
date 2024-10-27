@@ -117,10 +117,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_1: '欢迎交流',
+  HEO_SOCIAL_CARD_TITLE_2: '在这里你可以找到我',
+  HEO_SOCIAL_CARD_TITLE_3: '前往小红书',
+  HEO_SOCIAL_CARD_URL: 'https://www.xiaohongshu.com/user/profile/58423f4c82ec394821a6f1cd?xsec_token=&xsec_source=pc_search',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
