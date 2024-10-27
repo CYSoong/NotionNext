@@ -18,19 +18,19 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '分享设计',
+  HEO_HERO_TITLE_2: '和有趣的事物',
+  HEO_HERO_TITLE_3: 'SANWENYU.TOP',
+  HEO_HERO_TITLE_4: 'XIAOHONGSHU',
+  HEO_HERO_TITLE_5: '鱼文三CySoong',
+  HEO_HERO_TITLE_LINK: 'https://www.xiaohongshu.com/user/profile/58423f4c82ec394821a6f1cd?xsec_token=&xsec_source=pc_search',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_2: { title: '设计相关', url: '/tag/设计相关' },
+  HEO_HERO_CATEGORY_3: { title: '相机摄影', url: '/tag/相机摄影' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -40,20 +40,20 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
+    '🍉 喜欢吃喜欢设计',
+    '📷 喜欢摄影和相机',
+    '🐸 我样样通样样松',
+    '🐤 俩娃的超人宝爸',
     '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '👹 立志学更多技能'
   ],
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://github.com/CYSoong',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_URL3: 'https://www.sanwenyu.top',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
