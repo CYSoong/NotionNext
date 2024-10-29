@@ -58,7 +58,7 @@ const CONFIG = {
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
-     {
+    {
       title_1: 'VSCODE',
       img_1: '/images/heo/VSCODE.webp',
       color_1: '#0F79D6',
