@@ -18,9 +18,9 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享设计',
-  HEO_HERO_TITLE_2: '和有趣的事物',
-  HEO_HERO_TITLE_3: 'SANWENYU.TOP',
+  HEO_HERO_TITLE_1: '分享喜欢',
+  HEO_HERO_TITLE_2: '兴趣使然',
+  HEO_HERO_TITLE_3: 'UI/UX DESIGN CAMERA',
   HEO_HERO_TITLE_4: 'XIAOHONGSHU',
   HEO_HERO_TITLE_5: '鱼文三CySoong',
   HEO_HERO_TITLE_LINK: 'https://www.xiaohongshu.com/user/profile/58423f4c82ec394821a6f1cd?xsec_token=&xsec_source=pc_search',
