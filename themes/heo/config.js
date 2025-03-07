@@ -18,12 +18,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '分享喜欢',
+  HEO_HERO_TITLE_2: '兴趣使然',
+  HEO_HERO_TITLE_3: 'UI/UX DESIGN CAMERA',
+  HEO_HERO_TITLE_4: 'XIAOHONGSHU',
+  HEO_HERO_TITLE_5: '鱼文三CySoong',
+  HEO_HERO_TITLE_LINK: 'https://www.xiaohongshu.com/user/profile/58423f4c82ec394821a6f1cd?xsec_token=&xsec_source=pc_search',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
